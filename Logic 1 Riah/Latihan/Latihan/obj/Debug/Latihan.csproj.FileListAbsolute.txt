@@ -1,0 +1,11 @@
+D:\Bootcamp Visual Studio 2013\Latihan\Latihan\Latihan\bin\Debug\Latihan.exe.config
+D:\Bootcamp Visual Studio 2013\Latihan\Latihan\Latihan\bin\Debug\Latihan.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Latihan\Latihan\bin\Debug\Latihan.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Latihan\Latihan\obj\Debug\Latihan.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Latihan\Latihan\obj\Debug\Latihan.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Logic 1 Riah\Latihan\Latihan\bin\Debug\Latihan.exe.config
+D:\Bootcamp Visual Studio 2013\Latihan\Logic 1 Riah\Latihan\Latihan\obj\Debug\Latihan.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Logic 1 Riah\Latihan\Latihan\obj\Debug\Latihan.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Logic 1 Riah\Latihan\Latihan\bin\Debug\Latihan.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Logic 1 Riah\Latihan\Latihan\bin\Debug\Latihan.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Logic 1 Riah\Latihan\Latihan\obj\Debug\Latihan.csprojResolveAssemblyReference.cache
